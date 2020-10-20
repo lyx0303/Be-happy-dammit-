@@ -13,7 +13,7 @@ while True:
     
     if each_word == "sad":
       feelings_list.append("sad")
-      encouragement_list.append("your feeling is incorrect. Try again tomorrow.")
+      encouragement_list.append("your feeling is incorrect,invalid and very inaccurate. Try again tomorrow.")
       counter += 1
     if each_word == "happy":
       feelings_list.append("happy")
@@ -21,7 +21,7 @@ while True:
       counter += 1
     if each_word == "tired":
       feelings_list.append("tired")
-      encouragement_list.append("ugh ikr. Let's go for eternal sleep together. I propose Hades. See Bob yk")
+      encouragement_list.append("ugh ikr. Let's go for eternal sleep together. I propose Hades. See Bob and ceberus yk. Ceberus likes rubber balls, you know. ")
       counter += 1
 
   if counter == 0:
